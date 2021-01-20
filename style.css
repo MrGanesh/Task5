@@ -1,0 +1,21 @@
+body{
+    /* background-color: #AB47BC; */
+    font-family: Cursive;
+}
+
+hr{
+    color: white;
+}
+
+.profile{
+    color: #00ACC1;
+    font-size: 20px;
+}
+
+.profile-desc{
+    text-align: left;
+    color: black;
+}
+.company{
+    font-family: Sans-serif;
+}
